@@ -1,5 +1,5 @@
 ## Hi there 👋
-I literally made this account to take the CS50X course so that I could learn to program. I don't really plan to use this account for anything else. This was written on the 19th of March 2025. If I haven't finished the course by the end of the summer this year I am seriously slow. 
+I literally made this account to take the CS50X course so that I could learn to program. I don't really plan to use this account for anything else. This was written on the 19th of March 2025. If I haven't finished the course by the end of the autumn this year I am seriously slow. 
 
 
 **imadethis4cs50x/imadethis4cs50x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
